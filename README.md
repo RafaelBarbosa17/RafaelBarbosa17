@@ -1,7 +1,7 @@
 # Olá seja Bem-Vindo!
 
 ## *Quem eu sou?*
-Meu nome é Rafael Barbosa, tenho 19 anos, estou cursando Análise e Desenvolvimento de Sistemas na @Estacio, e estou procurando minha primeira vaga de estágio.
+Meu nome é Rafael Barbosa, tenho 19 anos, estou cursando Análise e Desenvolvimento de Sistemas na [@Estacio](https://estacio.br/a-estacio/sobre-a-estacio), e estou procurando minha primeira vaga de estágio.
 
 ## *O que vai encontrar aqui?*
 
